@@ -1,0 +1,20 @@
+insights:
+
+1. Customer Churn Rate is high :
+Out of 500 customers, 48.8% have churned, which means almost half of the customers have stopped using the service.
+
+2.Customer Satisfaction is Moderate:
+The average feedback score is 5.51/10.
+This suggests that customer satisfaction is only average and may be contributing to churn.
+
+3.Peak Churn Occurs in Mid-Year:
+The line chart shows the highest churn during June and July.
+The company should investigate events or service issues during these months.
+
+4.Monthly Subscription Customers Have Higher Churn
+The "% Churned by Subscription Type" chart shows that Monthly subscribers experience the highest churn percentage compared to Quarterly and Yearly plans.
+Longer subscription plans appear to retain customers better.
+
+5 No Strong Relationship Between Sessions and Feedback:
+The scatter plot shows customers with both high and low feedback scores across all session counts.
+This indicates that simply increasing customer activity does not necessarily improve satisfaction or reduce churn.
